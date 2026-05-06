@@ -1,4 +1,4 @@
-# 📖 Tafsir-SBERT: Semantic Modeling of Exegetical Relatedness Between Quranic Verses
+# 📖 Tafsir-Linkage-v1.0: Semantic Modeling of Exegetical Relatedness Between Quranic Verses
 # 📖 النمذجة الدلالية للترابط التفسيري بين الآيات القرآنية
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)

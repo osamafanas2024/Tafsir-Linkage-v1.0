@@ -13,7 +13,7 @@
 
 **English:** This repository hosts the codebase, datasets, and fine-tuned models for **Tafsir-Linkage-v1.0**, a pioneering Ph.D. research initiative. The project bridges the gap between state-of-the-art Artificial Intelligence (AI) and Classical Islamic Sciences (*Usul Al-Tafsir*). Unlike traditional Natural Language Processing (NLP) models that merely measure surface-level semantic similarity, Tafsir-Linkage-v1.0 is fine-tuned to understand and classify the **functional exegetical relationships** between Quranic verses, strictly adhering to the methodology of master exegetes (e.g., Ibn Kathir).
 
-**بالعربية:** يضم هذا المستودع الشيفرات البرمجية، مجموعات البيانات، والنماذج المُدربة لمشروع **Tafsir-SBERT**، وهو مبادرة بحثية رائدة ضمن أطروحة الدكتوراه. يهدف المشروع إلى مد الجسر بين أحدث تقنيات الذكاء الاصطناعي وعلوم التفسير وأصوله. بخلاف نماذج معالجة اللغات الطبيعية التقليدية التي تقيس التشابه الدلالي السطحي، تم ضبط هذا النموذج بدقة لفهم وتصنيف **العلاقات التفسيرية الوظيفية** بين الآيات القرآنية، استناداً إلى منهجية أئمة التفسير (مثل الإمام ابن كثير).
+**بالعربية:** يضم هذا المستودع الشيفرات البرمجية، مجموعات البيانات، والنماذج المُدربة لمشروع Tafsir-Linkage-v1.0 ، وهو مبادرة بحثية رائدة ضمن أطروحة الدكتوراه. يهدف المشروع إلى مد الجسر بين أحدث تقنيات الذكاء الاصطناعي وعلوم التفسير وأصوله. بخلاف نماذج معالجة اللغات الطبيعية التقليدية التي تقيس التشابه الدلالي السطحي، تم ضبط هذا النموذج بدقة لفهم وتصنيف **العلاقات التفسيرية الوظيفية** بين الآيات القرآنية، استناداً إلى منهجية أئمة التفسير (مثل الإمام ابن كثير).
 
 ---
 
